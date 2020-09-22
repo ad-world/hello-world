@@ -1,2 +1,6 @@
 # hello-world
-This is a test repository.
+
+Hello everybody!
+
+This is simply an example repsitory that I am using to learn how GitHub works. 
+Please ignore :)
